@@ -1,4 +1,4 @@
 
-Completed a dashboard in tableau
+Completed dashboard in tableau
 
 Link to the dashboard: https://public.tableau.com/profile/subodh.h.bharadwaj#!/vizhome/ElectionProject/Historysbiggestelection
